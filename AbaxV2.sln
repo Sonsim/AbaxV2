@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbaxV2", "AbaxV2\AbaxV2.csproj", "{B3ECB04B-360F-4385-B0D0-6D8903E9B48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3ECB04B-360F-4385-B0D0-6D8903E9B48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3ECB04B-360F-4385-B0D0-6D8903E9B48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3ECB04B-360F-4385-B0D0-6D8903E9B48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3ECB04B-360F-4385-B0D0-6D8903E9B48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8DD9C2-E803-4A90-86F5-D858B4BA877E}
+	EndGlobalSection
+EndGlobal
